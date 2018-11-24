@@ -1,0 +1,49 @@
+S/N,Sector,Total demand (Pers.),Junior middle school,Senior middle school,Technical secondary school,Junior college,Bachelor's degree,Master's degree,Doctor's degree,MBA,Unlimited
+1,Computer software ,132,0,2,0,14,15,0,0,0,2
+2,Sales management,1298,1,9,21,94,5,0,0,0,117
+3,market/marketing,2169,2,47,4,111,7,0,0,0,119
+4,Sales ,4572,2,52,45,157,1,0,0,0,240
+5,Computer hardware,40,0,0,4,0,0,0,0,0,0
+6,Internet development and application,50,0,1,1,18,2,0,0,0,8
+7,IT-Management,42,0,0,0,8,0,0,0,0,2
+8,"IT-QM, technical support and more",21,0,1,0,6,0,0,0,0,1
+9,Communications technology,86,0,0,6,3,0,0,0,0,2
+10,Electronics/appliances/semiconductor/instrumentation,432,0,0,25,50,12,0,0,0,7
+11,Finance/auditing/tax,305,0,7,6,84,29,0,0,0,25
+12,Engineering/machinery/energy,354,1,8,15,36,11,0,0,0,18
+13,HR,206,0,5,0,41,7,0,0,0,33
+14,Senior management,17,0,0,0,2,1,0,0,0,4
+15,Logistics/warehousing,451,16,27,4,12,1,0,0,0,96
+16,Art/graphics/Animation design,100,0,1,6,27,1,0,0,0,11
+17,Science & Technology,10,0,0,0,0,2,0,0,0,0
+18,Legal profession/law,3,0,0,0,2,1,0,0,0,0
+19,Education,287,0,4,0,30,17,0,0,0,13
+20,Hospital/medical/care,85,0,0,3,4,4,0,0,0,0
+21,Counsel/consulting,124,0,1,1,10,1,0,0,0,11
+22,Transportation service,675,7,3,1,2,0,0,0,0,41
+23,Construction/infrastructure/gardening,949,0,0,9,115,17,0,0,0,56
+24,Banking,32,0,0,0,3,0,0,0,0,0
+25,Office administration/logistics,516,0,17,14,128,4,0,0,0,35
+26,Customer service and technical support,1001,0,15,13,32,0,0,0,0,38
+27,Securities/finance/investment,168,0,0,0,6,9,0,0,0,2
+28,Insurance,181,0,2,0,22,2,0,0,0,6
+29,Production/operation,687,7,8,7,22,0,0,0,0,17
+30,QMS/safety/environmental protection,122,2,7,4,29,1,0,0,0,1
+31,Technical work,1374,22,22,7,2,0,0,0,0,137
+32,Fashion/textile/furs,100,0,0,0,0,0,0,0,0,5
+33,Procurement,63,0,1,7,10,0,0,0,0,5
+34,Trade,26,1,0,0,5,1,0,0,0,1
+35,Biology/chemicals/pharmaceuticals/medical equipment,161,0,2,4,13,2,4,0,0,4
+36,Advertising,63,0,0,7,15,8,0,0,0,2
+37,PRs and news media,8,0,0,0,2,0,0,0,0,1
+38,"Movies, TV and recreation",2,0,0,0,0,0,0,0,0,1
+39,Literature/screenwriting/writing,20,0,0,0,4,0,0,0,0,10
+40,Real property,1349,0,11,0,41,0,0,0,0,30
+41,Property management,183,0,11,0,6,0,0,0,0,23
+42,Restaurants & recreation,928,11,10,5,6,0,0,0,0,106
+43,Hotels/tourism,149,0,8,0,16,0,0,0,0,29
+44,Beauty and personal care,553,0,0,0,0,0,0,0,0,23
+45,General merchandise/chains/retail,2966,62,27,16,30,0,0,0,0,41
+46,Security/housekeeping/other,230,1,1,0,0,0,0,0,0,56
+47,Graduates,461,0,0,6,17,15,0,0,0,16
+48,Other,667,6,11,5,42,4,0,0,0,63
